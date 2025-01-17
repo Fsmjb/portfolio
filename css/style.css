@@ -2,9 +2,9 @@
 
 /* Global variables */
 :root {
-  --primary: #ff5555;
-  --primary-hover: #e43232;
-  --dark-primary: #000;
+  --primary: #12bdff;
+  --primary-hover: #0c8ec2;
+  --dark-primary: #1b1f24;
   --dark-secondary: #1e1b1b;
   --text-color: #c4c4c4;
 }
